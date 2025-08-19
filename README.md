@@ -97,7 +97,7 @@
 
 **Pranjal Sharma** 
 
-📧 [pranjalsh610@gmail.com](mailto: pranjalsh610@gmail.com)  
+📧 [pranjalsh610@gmail.com](mailto:pranjalsh610@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pranjal-sharma-580bba376)  
 🐱 [GitHub](https://github.com/Pranjal0610)
 

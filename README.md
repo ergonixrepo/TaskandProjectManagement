@@ -78,7 +78,8 @@
 
 ## 👩‍💻 Author
 **Aishwarya Akade**  
-📧 [Aishwaryaakade7741@gmail.com ](mailto:Aishwaryaakade7741@gmail.com )  
+📧 [Aishwaryaakade7741@gmail.com ](mailto:Aishwaryaakade7741@gmail.com ) 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-akade-8aba8024a) 
 🐱 [GitHub](github.com/Aishwarya206 )
 

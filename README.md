@@ -90,10 +90,13 @@
 🐱 [GitHub](https://github.com/Vishakhakhandar)
 
 **Dimple Patil** 
+
 📧 [patildimple709@gmail.com](mailto:patildimple709@gmail.com) 
+
 🔗 [LinkedIn](www.linkedin.com/in/dimple-p-2b8387258)
 
 **Pranjal Sharma** 
+
 📧 [pranjalsh610@gmail.com](mailto: pranjalsh610@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pranjal-sharma-580bba376)  
 🐱 [GitHub](https://github.com/Pranjal0610)

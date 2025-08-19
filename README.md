@@ -46,8 +46,9 @@
 ### 🔸 Admin Dashboard – Project Analytics  
 
 
+<img width="1880" height="1017" alt="Screenshot 2025-08-02 071709" src="https://github.com/user-attachments/assets/b99bdeb7-e5a5-46ea-8111-5c6486ceea81" />
 
-
+![WhatsApp Image 2025-08-02 at 07 20 08_e60bf245](https://github.com/user-attachments/assets/8117b25c-41b9-48fe-86dc-c9e61ae8c532)
 
 ### 🔸 Manager Dashboard – Assign Task  
 <img width="1920" height="1080" alt="Screenshot (1296)" src="https://github.com/user-attachments/assets/bb43b3d2-0a11-4838-bdf4-3b97ef034569" />
